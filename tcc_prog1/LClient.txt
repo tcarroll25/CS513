@@ -1,0 +1,109 @@
+login rek
+add 133718101 Craig Wills Fuller_Labs_322
+add 833916202 Michael Jordan Chicago_Illinois
+add 666444888 BOB Kinicki FL135
+add 000000007 Thomas Lextrait FLA22
+list JA   LZ 
+remove 666444888
+add 666888888 Bob Kinicki FL135
+add 1111111111 Alan AArdvark the_australian_outback
+add 000000012 Tom Brady SuperBowl_Indianapolis_Indiana
+add 750000000 Vince Wilfork  nose_tackle
+add 987654321 Mitt Romney  Miami_Florida
+add 333333322 Stevan Ridley LSU
+list R
+add 000000054 Brian Waters guard_from_the_Kansas_City_Chiefs
+add 454545454 Newt Gingrich 15_Main_Street_Atlanta_Georgia
+add 213871945 Emmanuel Agu FL139
+add 503503509 Dan  Dougherty FL136
+list
+add 555555550 Barack Obama 1600_Pennsylvania_Avenue
+add 998877661 Dazhi Zhang WPI_fuller_Labs
+add 777777777 Yidi Zhang  5_Park_avenue-Worecester-Massachusetts
+add 503503509  Buzz Lightyear  to_infinity_and_beyond
+remove  000000075
+add 999999999  Herman Cain Florida_Pizza_Parlor
+add 000000084  Deion Branch in-the_end_zone
+add 222222222  The Zorro somewhere_in_Mexico
+list WB ZZ
+quit
+login sms
+add 686868686 Stanley Selkow 888_Flinders_Street_Melbourne_Australia
+add 442442442 Stanley Selkow FL131
+add 442442441 John Smith  Seattle_Washington
+add 138719455 Emmanuel Agu on_the_soccer_pitch
+add 137634626 Joseph Banana in_a_tree
+add 137634626 Joseph Beck FL138
+add 137634666 Bob Brooks down_the_street
+list BB SF
+add 133865307 Thisisacrazyguyidon'twanttoseeagain Bunny Idaho
+add 233865300 Bugs Thisisacrazyguyidon'twanttoseehimagain nest
+add 000000002 Bugs Bunny in_a_cartoon_hole
+add 765432100 able able lost_in_space
+add 333865307 John Smith Jacksonville_Florida
+add 333865304 Ida Smith  Boise_Idaho
+list  S
+list SE SO
+add 4897_5118 Tony Smith worcester_MA
+add 489735118 Tony Smith worcester MA
+add 789735118 Tim Smith Thisaddressissolongthatwecannotacceptit
+add 589735118 Johnny Smith Landow_Street_Boston_MA
+list AB BY
+remove 1111111111
+add 111111111  zen zen  Z
+add 333865307
+remove 137634666
+add 333865306 ABLE abel at_the-SD_zoo
+list A
+list B
+remove 137634627
+quit
+login thomas
+add 188916433 Bill  Clinton  Haiti
+add 000000087 Rob Gronkowski  10_yard_line
+add 133718101 Kevin Cao FULLERA21
+add 137889554 Can Tatar FLA21
+add 138719455 Emmanuel Agu Nigeria
+add 444444444 Bubba Smith  baltimore_colts_DE
+list S
+remove 137634626
+remove 137634626
+list AA BZ
+add 137634626 Joseph Beck  on_the-run
+list B
+quit
+login cew
+add 503503509 Dan Dougherty FL136
+add 503503510 Charles  Rich  B25b
+add 503503510 Charles Rich Boston_MA
+list
+add 503503511 Rob Gronkowski Pats_20_yard_line
+add 503503512 Rob Gronkowski Pats_25_yard_line
+add 503503513 Rob Gronkowski Pats_30_yard_line
+add 503503514 Rob Gronkowski Pats_35_yard_line
+add 503503515 Rob Gronkowski Pats_40_yard_line
+add 503503516 Rob Gronkowski Pats_45_yard_line
+add 503503517 Rob Gronkowski 50_yard_line
+add 503503518 Rob Gronkowski Giants_45_yard_line
+add 503503519 Rob Gronkowski Giants_40_yard_line
+add 503503520 Rob Gronkowski Giants_35_yard_line
+add 503503521 Rob Gronkowski Giants_30_yard_line
+add 503503522 Rob Gronkowski Giants_25_yard_line
+add 503503523 Rob Gronkowski Giants_20_yard_line
+add 503503524 Rob Gronkowski Giants_15_yard_line
+add 503503525 Rob Gronkowski Giants_10_yard_line
+add 503503526 Rob Gronkowski Giants_5_yard_line
+add 503503527 Rob Gronkowski TOUCHDOWN!!!!!!!!!!
+add 503503528 Rob Gronkowski does_the_Gronk_Spike
+add 503503599 Bill Belicheck  it_is_what_it_is
+list G
+list AA GZ
+remove 503503517
+list AA  SZ
+add 987654321 Mo Zho
+remove 222222222
+list
+quit EOF
+login nonono
+add 000000001 invisible jones nada
+quit    

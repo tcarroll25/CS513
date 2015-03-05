@@ -1,0 +1,55 @@
+**************************
+User: tyler
+
+Profile Info:
+First name: Tyler
+Last name: Carroll
+Location: 16Crescent
+
+Inbox: 
+Unread message from admin:
+welcome to our exchange server!
+
+Blocked users:
+admin
+tyler is currently logged in!
+**************************
+
+**************************
+User: tom
+
+Profile Info:
+First name: first
+Last name: last
+Location: location
+
+Inbox: 
+Unread message from admin:
+welcome to our exchange server!
+
+Blocked users:
+admin
+tom is currently logged in!
+**************************
+
+**************************
+User: dillon
+
+Profile Info:
+First name: first
+Last name: last
+Location: location
+
+Inbox: 
+Unread message from tom:
+hey whats up
+
+Unread message from tom:
+heyyyyy youre a foagggggoto!!!!!!!!!!!!!
+
+Blocked users:
+admin
+tom
+dillon is currently logged in!
+**************************
+
